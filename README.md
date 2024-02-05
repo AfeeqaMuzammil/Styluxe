@@ -15,13 +15,13 @@ To install **Styluxe**, follow these steps:
   Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/AfeeqaMuzammil/Styluxe.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/AfeeqaMuzammil/Styluxe.git
 ```
 
 
